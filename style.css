@@ -1,0 +1,236 @@
+* {
+  box-sizing: border-box;
+  font-family: "Gemunu Libre", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.navbar-toggler {
+  background-color: #fff;
+  font-weight: 100;
+}
+
+.img-fluid {
+  width: 250px;
+  height: auto;
+  padding-right: 50px;
+}
+
+.nav-link {
+  cursor: pointer;
+  text-transform: uppercase;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+}
+
+.btn-primary {
+  background-color: #38b6ff;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+  padding: 5px 30px;
+  font-weight: 100;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.btn-primary-second {
+  background-color: #ff3838;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+  padding: 5px 30px;
+  font-weight: 100;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  border-radius: 10px;
+  color: white;
+}
+
+.btn-primary-second:hover {
+  color: white;
+  background: #df3333;
+  transition: 0.5s;
+}
+
+.btn-primary:hover {
+  background-color: #1272aa;
+  transition: 0.5s;
+}
+
+.main-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e7e7e7fb;
+  width: 100%;
+}
+
+.portfolio {
+  width: 400px;
+  height: auto;
+}
+
+.h1 {
+  font-size: 3.5rem;
+  font-family: "Gemunu Libre", sans-serif;
+  font-weight: 100;
+}
+
+.h4 {
+  font-size: 2.1rem;
+  padding-bottom: 25px;
+}
+
+.btn-primary-main {
+  background-color: #38b6ff;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+  padding: 5px 30px;
+  font-weight: 100;
+  outline: none;
+  border: none;
+  color: white;
+}
+
+.btn-primary-main-1 {
+  background-color: #ff3838;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+  padding: 5px 30px;
+  font-weight: 100;
+  outline: none;
+  border: none;
+  color: white;
+  text-align: center;
+  margin: auto;
+  border-radius: 50px;
+}
+
+.btn-primary-main-1:hover {
+  background-color: #38b6ff;
+  transition: 0.5s;
+}
+
+.btn-primary-main-2 {
+  /* background-color: #38b6ff; */
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 1.2rem;
+  padding: 5px 30px;
+  font-weight: 100;
+  outline: none;
+  border: none;
+  color: black;
+  text-align: center;
+  margin: auto;
+  border-radius: 50px;
+  border: #38b6ff 1px solid;
+}
+
+.btn-primary-main-2:hover {
+  background-color: #38b6ff;
+  transition: 0.5s;
+  color: #fff;
+}
+
+.about-me {
+  color: #38b6ff;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.Work-profile:hover {
+  background: #ff3838;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.education {
+  background: rgb(255, 255, 255);
+}
+
+.small-text {
+  font-size: 1.5rem;
+  color: #38b6ff;
+}
+
+.projects-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 350px;
+  height: auto;
+}
+
+.list-services:hover {
+  background: #38b6ff;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.card-img-top {
+  width: 350px;
+  height: auto;
+}
+
+.quotes {
+  font-size: 1.5rem;
+  color: rgb(221, 193, 120);
+}
+
+.testimonial {
+  font-size: 0.88rem;
+}
+
+.card-img-top-project {
+  width: 550px;
+  height: auto;
+}
+
+.card-img-top {
+  width: 150px;
+  height: auto;
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-title-designation {
+  font-size: 0.8rem;
+}
+
+.footer {
+  background: #ff3838;
+  width: 100%;
+  height: auto;
+}
+
+.breadcrumb {
+  padding: 10px;
+  margin: auto;
+  list-style: none;
+}
+
+.list-footer {
+  list-style: none;
+}
+
+.nav-lists {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-item .nav-link {
+  display: inline-flex;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+.footer-text {
+  font-size: 0.85rem;
+  color: #fff;
+}
