@@ -1,3 +1,49 @@
+@media screen and (max-width: 360px) {
+  .img-fluid {
+    width: 450px;
+    height: auto;
+    padding-right: 50px;
+  }
+
+  .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .contact-form-paragraph {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .logo {
+    width: 200px;
+    height: auto;
+  }
+
+  .h1 {
+    /* text-align: center; */
+    font-size: 2.5rem;
+  }
+
+  .contact-form-heading {
+    font-size: 0.98rem;
+  }
+
+  .contact-heading-1 {
+    font-size: 0.8rem;
+  }
+
+  .main-header-h1 {
+    font-size: 0.98rem;
+  }
+
+  .main-header-h4 {
+    font-size: 0.8rem;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .img-fluid {
     width: 450px;
