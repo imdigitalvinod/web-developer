@@ -1,0 +1,29 @@
+@media screen and (max-width: 480px) {
+  .img-fluid {
+    width: 450px;
+    height: auto;
+    padding-right: 50px;
+  }
+
+  .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .contact-form-paragraph {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .logo {
+    width: 250px;
+    height: auto;
+  }
+
+  .h1 {
+    /* text-align: center; */
+    font-size: 2.5rem;
+  }
+}
